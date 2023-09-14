@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "express",
+  "description": "curso basico express js",
+  "version": "1.0.0",
+  "main": "server-express.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-ardila/express.git"
+  },
+  "keywords": [
+    "javascript",
+    "express"
+  ],
+  "author": "Miguel-Ardila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguel-ardila/express/issues"
+  },
+  "homepage": "https://github.com/miguel-ardila/express#readme"
+}
