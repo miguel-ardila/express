@@ -24,7 +24,7 @@ app.get('/game/start-game', gaming, appGaming, (req, res) => {
   res.send('¡Bienvenido a mi servidor de videojuegos! ¿Listo para jugar? 🎮');
 });
 
-app.get('/game/guess/:numero', (req, res) => {
+app.get('/game/guess/2', (req, res) => {
   const numeroUsuario = parseInt(req.params.numero);
 
   if (numeroUsuario === numeroSecreto) {
